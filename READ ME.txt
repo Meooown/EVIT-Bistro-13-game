@@ -1,0 +1,17 @@
+Thank you for playing my game. This is created by @Meooown on github
+Last updated on 4/26/2024
+
+-----------------------------
+
+Welcome to squid game. you are a food delivery agent delivering calimary from the BISTRO resturaunt to the Superintendent!
+
+-Use WASD or the arrow keys to move across the grid. Get to the end with a limited number of moves
+-Cops (with tasers) mistake your food to be a lethal weapon. Avoid at all costs.
+-the red road and spikes are dangerous.
+-land on bistro cuisine to replenish your energy!
+-Green = Victory!'
+
+
+-----------------------------
+
+IMPORTANT: DOWNLOAD BOTH FILES! To play, unzip both zipped files into the SAME folder and launch the "My project" file.
